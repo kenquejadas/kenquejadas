@@ -1,4 +1,7 @@
-### Hi there 👋
+### University of Minnesota Undergrad
+### Bachelor's in Management Information Systems
+### Intermediate proficiency with Python and SQL, currently learning Python web scraping, basic data engineering, data analysis, and visualization with Tableau
+### Will add data analysis projects here soon
 
 <!--
 **kenquejadas/kenquejadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
