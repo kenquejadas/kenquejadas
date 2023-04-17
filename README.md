@@ -1,6 +1,7 @@
-### University of Minnesota Undergraduate Student & IT Worker
-### Bachelor of Science in Management Information Systems
-### Intermediate proficiency with Python, JavaScript, and SQL
+University of Minnesota Undergraduate Student
+Bachelor of Science in Management Information Systems
+
+Intermediate proficiency with Python, JavaScript, and SQL
 * Python and SQL learned through university coursework
 * JavaScript learned on the job for a [work project](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
 
