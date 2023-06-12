@@ -6,6 +6,7 @@
 * Intermediate proficiency with Python, JavaScript, and SQL
 
 ### Project Portfolio
+Portfolio Website: [KenPortfol.io](https://kenportfol.io)
 * JavaScript learned on the job to automate a [Google Drive Outline Document](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
 * Applying/improving SQL skillset through personal [Gym Workout Database](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
 * Learning HTML and CSS hands-on by building my [Portfolio Website](https://github.com/kenquejadas/kenquejadas.github.io) from scratch, hosted by GitHub Pages 
