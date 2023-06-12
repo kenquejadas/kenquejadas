@@ -1,8 +1,11 @@
-University of Minnesota Undergraduate Student
-Bachelor of Science in Management Information Systems
+# Ken Quejadas - Coding Portfolio
 
-Intermediate proficiency with Python, JavaScript, and SQL
-* Python and SQL learned through university coursework
+### About
+* University of Minnesota Undergraduate Student
+* Bachelor of Science in Management Information Systems
+* Intermediate proficiency with Python, JavaScript, and SQL
+
+### Project Portfolio
 * JavaScript learned on the job to automate a [Google Drive Outline Document](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
 * Applying/improving SQL skillset through personal [Gym Workout Database](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
 * Learning HTML and CSS hands-on by building my [Portfolio Website](https://github.com/kenquejadas/kenquejadas.github.io) from scratch, hosted by GitHub Pages 
