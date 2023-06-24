@@ -4,6 +4,7 @@
 * University of Minnesota Undergraduate Student
 * Bachelor of Science in Management Information Systems
 * Intermediate proficiency with Python, JavaScript, and SQL
+* Currently work in Data Center Operations and Google Workspace automation
 
 ### Project Portfolio
 Portfolio Website: [KenPortfol.io](https://kenportfol.io)
