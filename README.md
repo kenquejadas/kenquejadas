@@ -1,4 +1,4 @@
-# Ken Quejadas - Coding Portfolio
+# Ken Quejadas - Analyst & Developer
 
 ### About
 * University of Minnesota Undergraduate Student
