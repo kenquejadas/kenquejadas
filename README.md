@@ -1,13 +1,12 @@
 # Ken Quejadas - Analyst & Developer
 
 ### About
-* University of Minnesota Undergraduate Student
-* Bachelor of Science in Management Information Systems
 * Intermediate proficiency with Python, JavaScript, and SQL
 * Currently work in Data Center Operations and Google Workspace automation
 
 ### Project Portfolio
 * JavaScript learned on the job to automate a [**Google Drive Outline Document**](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
+* Improving my predictive analytics skills through [**Kaggle's Titanic ML Competition**](https://github.com/kenquejadas/Kaggle-Titanic-competition/)
 * Applying/improving SQL skillset through personal [**Gym Workout Database**](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
 * Learning HTML and CSS hands-on by building my [**Portfolio Website**](https://github.com/kenquejadas/kenquejadas.github.io) from scratch, hosted by GitHub Pages 
 
