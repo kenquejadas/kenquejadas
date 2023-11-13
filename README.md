@@ -1,14 +1,20 @@
 # Ken Quejadas - Analyst & Developer
 
-### About
+## About
 * Intermediate proficiency with Python, JavaScript, and SQL
 * Currently work in Data Center Operations and Google Workspace automation
 
-### Project Portfolio
-* JavaScript learned on the job to automate a [**Google Drive Outline Document**](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
-* Improving my predictive analytics skills through [**Kaggle's Titanic ML Competition**](https://github.com/kenquejadas/Kaggle-Titanic-competition/)
-* Applying/improving SQL skillset through personal [**Gym Workout Database**](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
-* Learning HTML and CSS hands-on by building my [**Portfolio Website**](https://github.com/kenquejadas/kenquejadas.github.io) from scratch, hosted by GitHub Pages 
+## Project Portfolio
+### Web Development
+* [**Gym Workout Web App**](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
+  * Dynamic website hosted by Netlify
+  * SQL database hosted by Microsoft Azure
+* [**Portfolio Website**](https://github.com/kenquejadas/kenquejadas.github.io) made from scratch
+  * Static website hosted by GitHub Pages 
+### Automation
+* [**Google Drive Outline Document**](https://github.com/kenquejadas/Automated-Google-Drive-Outline-Document)
+### Data Analytics
+* [**Kaggle's Titanic ML Competition**](https://github.com/kenquejadas/Kaggle-Titanic-competition/)
 
 <!--
 **kenquejadas/kenquejadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
