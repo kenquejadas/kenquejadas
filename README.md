@@ -1,9 +1,5 @@
 # Ken Quejadas - Analyst & Developer
 
-## About
-* Intermediate proficiency with Python, JavaScript, and SQL
-* Currently work in Data Center Operations and Google Workspace automation
-
 ## Project Portfolio
 ### Web Development
 * [**Gym Workout Web App**](https://github.com/kenquejadas/Gym-Workout-Relational-Database) made from scratch
