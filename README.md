@@ -1,4 +1,6 @@
-# Ken Quejadas - Analyst & Developer
+# Welcome to my GitHub Portfolio
+
+Projects showcased are pinned below ⬇️
 
 <!--
 **kenquejadas/kenquejadas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
